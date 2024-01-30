@@ -1,0 +1,5 @@
+A box for the user to type in their name
+a box for user to enter their preferred email address to be contacted on
+Dropdown box called "Reason" with preset number of reasons for user to select best matching their reason for contacting
+or "other" if none match the reason
+A big box called "Message" where the user can thorougly describe and explain the reason for contacting us
