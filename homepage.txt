@@ -1,0 +1,5 @@
+This page will be the landing page for the website
+It will display the company logo header and have a carousel display of
+currently trending products
+It will have the option for customers to log into their account and view current or
+previous orders.

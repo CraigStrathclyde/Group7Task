@@ -1,0 +1,3 @@
+This will be a basic page
+This page will just contain text boxes displaying the general information about
+the business, such as when it was created and what they are best known for.
