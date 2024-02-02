@@ -1,7 +1,7 @@
-PRODUCT PAGE
-
-
-DISPLAY THE PRODUCT
-SHOW PRICES OF PRODUCTS
-SHOW BRIEF DESCRIPTION OF PRODUCTs
-ADD ADD TO BASKET BUTTON
+PRODUCT SELECTION AREA:
+- Products are displayed with an image, name, price, and "Add to Basket" button.
+  - Each product card includes:
+    - Product Image: Clickable, opens a modal with more details.
+    - Product Name: Descriptive and clickable, leading to the product detail page.
+    - Price: Displayed clearly next to the product name.
+    - Add to Basket Button: Adds the item to the shopping basket.
